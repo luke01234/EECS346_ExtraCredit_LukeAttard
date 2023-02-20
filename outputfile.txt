@@ -1,0 +1,5 @@
+Department 0 gets programmer 1.
+Department 1 gets programmer 3.
+Department 2 gets programmer 5.
+Department 3 gets programmer 2.
+Department 4 gets programmer 4.
